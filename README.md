@@ -1,6 +1,6 @@
 # Solana Metaplex Core NFT Minting
 
-This repo details the steps involved in developing and minting Metaplex Core NFTs on the Solana blockchain, offering a thorough guide for developers or businesses interested in NFT creation within the Solana ecosystem.
+#Solana #Metaplex #Core #NFT #Minting: This repository provides a detailed guide to developing and #minting #NFTs with #Metaplex #Core on the #Solana blockchain, covering setup, implementation, and deployment for seamless #NFT creation.
 
 Metaplex has introduced a new lightweight NFT standard on Solana, known as Metaplex Core. This guide will explain what Metaplex Core is, its significance, and how to mint your first NFT using Metaplex Core alongside the Umi JavaScript library.
 
@@ -14,4 +14,4 @@ If you need more technical support and development inquires, you can contact bel
 
 Telegram: [@dwlee918](https://t.me/@dwlee918)
 
-Twitter: [@derricklee918](https://x.com/derricklee918)
+Twitter: [@dwlee918](https://x.com/dwlee918)
